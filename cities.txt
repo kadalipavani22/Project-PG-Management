@@ -1,0 +1,8 @@
+We provide top-notch PG accommodations across the various cities
+1.Displaying cities
+2.profile Management
+3.check pg checking transaction
+4.Booking details
+5.logout
+6.Exit
+ensuring user comfort and convenience for every resident and better food .
